@@ -13,5 +13,5 @@ a) Linguagem R (usando o mirror da UFPR, com boa velocidade) - https://cran-r.c3
 
 b) Ambiente R Studio - https://rstudio.com/products/rstudio/download/ (os exemplos rodam na versão "RStudio Desktop - Open Source License - Free)
 
-Os demais pacotes são baixados a partir do console do R ou do R Studio usando o comando `install. packages("nomedopacote")`, escolha o nome do pacote necessário ele busca os pacotes dependentes se houver automaticamente.
+Os demais pacotes são baixados a partir do console do R ou do R Studio usando o comando `install. packages("nomedopacote")`, escolha o nome do pacote necessário. O editor do ambiente busca os pacotes dependentes, se houverem, automaticamente.
 
