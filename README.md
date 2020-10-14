@@ -15,3 +15,11 @@ b) Ambiente R Studio - https://rstudio.com/products/rstudio/download/ (os exempl
 
 Os demais pacotes são baixados a partir do console do R ou do R Studio usando o comando `install. packages("nomedopacote")`, escolha o nome do pacote necessário. O editor do ambiente busca os pacotes dependentes, se houverem, automaticamente.
 
+c) Instalação do Bibliometrix - basta acompanhar os comandos deste arquivo - https://github.com/candelmo/semanaacademica/blob/main/Bibliometrix.md
+
+## 3. Exemplos em R
+
+a) Teste K - https://github.com/candelmo/semanaacademica/blob/main/FleissKappaR.md
+
+b) Forest Plot - https://github.com/candelmo/semanaacademica/blob/main/ForestPlot.md
+
