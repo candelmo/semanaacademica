@@ -7,7 +7,7 @@ a) Instalação do Java, caso não tenha instalado - https://www.java.com/pt-BR/
 
 b) Página do LAPES, buscar a última versão estável do software StArt - http://lapes.dc.ufscar.br/tools/start_tool
 
-C) Arquivo EBSCO_BIBTEXT, exemplo de extração do EBSCO, no formato BibTex para demonstração de carga no StArt
+c) Arquivo EBSCO_BIBTEXT, exemplo de extração do EBSCO, no formato BibTex para demonstração de carga no StArt
 
 ## 2. Caso queira acompanhar os exemplos em R
 
