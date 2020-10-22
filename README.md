@@ -7,9 +7,15 @@ a) Instalação do Java, caso não tenha instalado - https://www.java.com/pt-BR/
 
 b) Página do LAPES, buscar a última versão estável do software StArt - http://lapes.dc.ufscar.br/tools/start_tool
 
-c) Arquivo EBSCO_BIBTEXT, exemplo de extração do EBSCO, no formato BibTex para demonstração de carga no StArt
+c) Arquivo EBSCO_BIBTEXT.TXT, exemplo de extração do EBSCO, no formato BibTex para demonstração de carga no StArt
 
-## 2. Caso queira acompanhar os exemplos em R
+## 2. Para acompanhar a demonstração e baixar a ferramenta Vosviewer
+
+a) Página para download do VosViewer - https://www.vosviewer.com/download
+
+b) Arquivo do EBSCO no formato RIS (delivery_ebsco_formato_RIS.ris)
+
+## 3. Caso queira acompanhar os exemplos em R
 
 a) Linguagem R (usando o mirror da UFPR, com boa velocidade) - https://cran-r.c3sl.ufpr.br/ (procure o link "Download R for the first time")
 
@@ -19,7 +25,7 @@ Os demais pacotes são baixados a partir do console do R ou do R Studio usando o
 
 c) Instalação do Bibliometrix - basta acompanhar os comandos deste arquivo - https://github.com/candelmo/semanaacademica/blob/main/Bibliometrix.md
 
-## 3. Exemplos em R
+## 4. Exemplos em R
 
 a) Teste K - https://github.com/candelmo/semanaacademica/blob/main/FleissKappaR.md
 
